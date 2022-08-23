@@ -5,6 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
+    "@material-ui/lab": "^4.0.0-alpha.61",
     "@mui/icons-material": "^5.8.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -12,7 +13,9 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "react": "^18.2.0",
+    "react-alice-carousel": "^2.6.4",
     "react-dom": "^18.2.0",
+    "react-loading-skeleton": "^3.1.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
